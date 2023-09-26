@@ -23,6 +23,12 @@
 
 
 
+## Contributions: 
+![snake gif](https://github.com/AshWatts/AshWatts/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/AshWatts/AshWatts/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AshWattsAshWatts)
 
