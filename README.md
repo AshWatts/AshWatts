@@ -2,6 +2,8 @@
 
 **I'm Ayush Wattamwar, but you can call me Ash!**
 
+![](https://visitor-badge.laobi.icu/badge?page_id=AshWattsAshWatts)
+
 ## 🎓 I'm a CS Undergrad student at PICT, India.
 
 - 🧑‍💻 I’m currently learning C++ and Python.
@@ -24,7 +26,6 @@
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AshWattsAshWatts)
 
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshWatts&show_icons=true&theme=midnight-purple)
