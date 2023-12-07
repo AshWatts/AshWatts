@@ -12,7 +12,7 @@
 - 💬 Ask me about anything.
 
 
-## :email: Find me on:
+## :Find me on:
 <!--
 [<img align="left" alt="AshWatts | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AshWatts | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
