@@ -6,7 +6,7 @@
 
 ## 🎓 I'm a CS Undergrad student at PICT, India.
 
-- 🧑‍💻 I’m currently learning C++ and Machine Learning in Python.
+- 🧑‍💻 I’m enhancing my expertise in machine learning with Python while also developing my skills in front-end development.
 - 🈁 I’m also learning Japanese. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
