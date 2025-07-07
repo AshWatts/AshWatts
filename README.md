@@ -18,8 +18,8 @@
 -->
 
 <p align="center">
- <a href="https://www.linkedin.com/in/ayush-wattamwar-32534524b/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="32" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:ayushwattamwar27@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Mail" height="32" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://www.linkedin.com/in/ayush-wattamwar-32534524b/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="12" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:ayushwattamwar27@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Mail" height="12" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 ## GitHub Stats:
