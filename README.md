@@ -28,4 +28,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshWatts&theme=midnight-purple)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AshWatts/AshWatts)
+![](https://visitor-badge.laobi.icu/badge?page_id=AshWattsAshWatts)
