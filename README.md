@@ -1,4 +1,8 @@
-### Hi there 👋 
+### Hi there 👋
+
+<p align="center">
+  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="One Piece Banner" width="100%" style="max-height:200px; object-fit:cover; border-radius:10px;">
+</p>
 
 **I'm Ayush Wattamwar, but you can call me Ash!**
 
@@ -22,7 +26,7 @@
   </a>
 </p>
 
-<p align="center"><b>Feel free to connect or collaborate with me on LinkedIn or drop me an email!</b></p>
+<p align="center"><b>Feel free to connect or collaborate with me!</b></p>
 
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshWatts&show_icons=true&theme=midnight-purple)
