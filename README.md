@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-wattamwar-32534524b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:middle; margin:4px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24" style="vertical-align:middle; margin:4px;">
   </a>
   <a href="mailto:ayushwattamwar27@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail" height="40" style="vertical-align:middle; margin:4px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail" width="24" height="24" style="vertical-align:middle; margin:4px;">
   </a>
 </p>
 
