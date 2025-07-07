@@ -12,10 +12,6 @@
 - 💬 Ask me about anything.
 
 ## Find me on:
-<!--
-[<img align="left" alt="AshWatts | LinkedIn" width="4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AshWatts | Mail" width="4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-wattamwar-32534524b/" target="_blank" rel="noopener noreferrer">
@@ -25,6 +21,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail" width="48" height="48" style="vertical-align:middle; margin:4px;">
   </a>
 </p>
+
+<p align="center"><b>Feel free to connect or collaborate with me on LinkedIn or drop me an email!</b></p>
 
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshWatts&show_icons=true&theme=midnight-purple)
