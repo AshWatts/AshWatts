@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-wattamwar-32534524b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="20" style="vertical-align:middle; margin:4px; filter: invert(34%) sepia(99%) saturate(749%) hue-rotate(176deg) brightness(92%) contrast(92%);">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin:4px; filter: invert(34%) sepia(99%) saturate(749%) hue-rotate(176deg) brightness(92%) contrast(92%);">
   </a>
   <a href="mailto:ayushwattamwar27@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Mail" height="20" style="vertical-align:middle; margin:4px; filter: invert(41%) sepia(99%) saturate(749%) hue-rotate(340deg) brightness(92%) contrast(92%);">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Mail" width="20" height="20" style="vertical-align:middle; margin:4px; filter: invert(41%) sepia(99%) saturate(749%) hue-rotate(340deg) brightness(92%) contrast(92%);">
   </a>
 </p>
 
