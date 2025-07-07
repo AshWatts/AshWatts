@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="One Piece Banner" width="100%" style="max-height:200px; object-fit:cover; border-radius:10px;">
-</p>
-
 **I'm Ayush Wattamwar, but you can call me Ash!**
 
 
