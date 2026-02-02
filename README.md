@@ -30,5 +30,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshWatts&layout=compact&theme=midnight-purple&cache_seconds=1800)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshWatts&theme=midnight-purple)
+
+![Contribution Graph](https://ghchart.rshah.org/AshWatts)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshWatts&theme=github-dark)
+
+## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=AshWattsAshWatts)
 
