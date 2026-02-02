@@ -30,18 +30,37 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshWatts&layout=compact&theme=midnight-purple&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshWatts&theme=midnight-purple)
-
-![Contribution Graph](https://ghchart.rshah.org/AshWatts)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshWatts&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=AshWatts&theme=midnight-purple)
 
 ## 🚀 Tech Stack
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+
+### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+
+### 🤖 ML & Data
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
+### 📊 Visualization
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AshWattsAshWatts)
-
