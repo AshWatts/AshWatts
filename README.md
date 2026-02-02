@@ -30,4 +30,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshWatts&layout=compact&theme=midnight-purple&cache_seconds=1800)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AshWatts.profile)
+![](https://visitor-badge.laobi.icu/badge?page_id=AshWattsAshWatts)
+
